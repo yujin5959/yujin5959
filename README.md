@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin5959&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin5959&show_icons=true&theme=merco)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin5959&layout=compact&theme=dracula)
 <!--
 **yujin5959/yujin5959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
