@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, world 👋
+###자라나는 개발 꿈나무 입니다🌱
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin5959&show_icons=true&theme=dark)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin5959&layout=compact&theme=dracula)
 <!--
