@@ -26,8 +26,9 @@
 ### Currently Studying on
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-squaree&logo=TypeScript&logoColor=ffffff"/>&nbsp   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>&nbsp  
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>&nbsp 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Zustand-black.svg?style=flat-square&logo=data:image/svg+sml;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAARGVYSWZNTQAqAAAACAABh2kABAAAAAEAAAAaAAAAAAADoAEAAwAAAAEAAQAAoAIABAAAAAEAAAAwoAMABAAAAAEAAAAwAAAAANs3bAwAAAH+SURBVHic7ZZNiupAFEa/ihUTogQy9yegY3XuIlxCVuAwS8gGnAiCC3ADrkHNCgQnQiBjFRwIqduDxvDS5mF3dVFNIGciXMpbh/KrWzIiQtUw/lpAhlpaF7W0LmppXdTSuqildVFJaa6yWa/XoyAIYFkW3v0RE0Jgv99ju92yn+6jVLrb7SIMQziO83ZtlmVYLpdS+yiVZoyBcw7O37dljMEw5NJZyUwrlWaMwTRNlS1LURqP2+2Gw+EA27bzGhHBtm0Mh8NC/TdISff7fep0OmDs8+IbhoHr9Yo0TRFFUSHTRITT6YTNZoPRaPR30kEQIAxDNBqNzyacI45jRFGE9XoN13UhhMgv22w2w/1+VyIsLd1sNtFut/OTBgDHcWCaJlzXRavVelmvEqmLSETIsqxQE0KAiCCEKF2vEilpxljhlJ+1fz/LvvOux3eRkjYMI8/zE855/riUrf86Cst6fBcm89MNBgPyfb9wupfLBefzGZPJBJxzEFF+EXe7HXzfh+d5eXyICEmS4Hg8/vi4paT/x3g8psViAcuyCvX5fI44juWyUILSx8V1XUyn05eIeJ6nchu1zzgR4fF4vNTLJspvqOQfJqXxeM7vrzNc9ZxWKp2mKVarFSzLyp9xzjmSJFG5jdrpoYtKZrqW1kUtrYtaWhe1tC5qaV1UUvoDXECckuWQxXMAAAAASUVORK5CYII="/>&nbsp 
 </p>
 
 ### 📝 Preferred Tools 📝
