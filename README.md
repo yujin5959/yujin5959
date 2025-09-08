@@ -38,6 +38,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff"/>
 </p>
 
+### 😆 Dev Life
+☕ Coffee → 💻 Code → 🐞 Debug → 🚀 Commit → 🔁 Repeat
+
+![Eugene's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yujin5959&theme=react-dark&hide_border=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin5959&show_icons=true&theme=dark)
 <!--
 **yujin5959/yujin5959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
