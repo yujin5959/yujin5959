@@ -16,10 +16,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=yujin5959&show_icons=true&theme=radical)
 
-## Latest Blog Posts
-
-Check out my latest articles on my [blog](https://yujenius.tistory.com/).
-
-## Connect with Me
-
-{"instagram":"https://www.instagram.com/je._.rrry","generic":"https://yujenius.tistory.com/"}
