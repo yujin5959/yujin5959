@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUJIN's%20GITHUB%&fontSize=60)
+<h2 align="start">YUJIN JI </h2>
 
 <h2 align="start">📚 Technology Stack 📚 </h2>
 
