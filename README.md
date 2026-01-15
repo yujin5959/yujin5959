@@ -14,7 +14,7 @@
 
 ## Skills & Technologies
 
-![](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,styledcomponents,git,github,aws,vercel,notion,c,py,redux)
+![](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,styledcomponents,emotion,git,github,aws,vercel,notion,c,py,redux)
 
 ## GitHub Stats
 
