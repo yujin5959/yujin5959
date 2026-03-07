@@ -17,5 +17,5 @@
 ![](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,styledcomponents,emotion,git,github,aws,vercel,notion,c,py,redux)
 
 ## GitHub Stats
-![yujin's github stats](https://github-readme-stats.vercel.app/api?username=yujin5959s&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=yujin5959&show_icons=true&theme=radical">
 
